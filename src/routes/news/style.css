@@ -1,8 +1,8 @@
 .news {
-	padding: 100px 20px;
 	margin: 0 auto;
 	max-width: 120rem;
 	min-height: 100%;
+	padding: 100px 20px;
 }
 
 @media (min-width: 360px) {

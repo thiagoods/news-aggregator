@@ -3,7 +3,7 @@ import style from './style';
 
 const Header = () => (
 		<header class={style.header}>
-			<h1 class={style.title}>NTAN</h1>
+			<h1 class={style.title}>NSAN</h1>
 			<nav class={style.navigation}>
 				<Link class={style.link} activeClassName={style.active} href="/">News</Link>
 				<Link class={style.link} activeClassName={style.active} href="/tech">Technology</Link>
